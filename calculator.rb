@@ -3,3 +3,4 @@
 first_number = 56
 second_number = 9
 
+sum = first_number + second_number
